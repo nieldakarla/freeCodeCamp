@@ -4,7 +4,11 @@ export enum BlockTypes {
   lab = 'lab',
   review = 'review',
   quiz = 'quiz',
-  exam = 'exam'
+  exam = 'exam',
+  /** These below are for the Language Curricula */
+  warmup = 'warm-up',
+  learn = 'learn',
+  practice = 'practice'
 }
 
 export enum BlockLayouts {
