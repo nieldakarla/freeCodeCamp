@@ -48,7 +48,7 @@
           "blocks": ["learn-how-to-talk-about-hobbies-and-interests"]
         },
         {
-          "dashedName": "roles-and-responsibilies",
+          "dashedName": "roles-and-responsibilities",
           "blocks": ["learn-how-to-discuss-roles-and-responsibilies"]
         }
       ]
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "dashedName": "aks-technical-support",
+      "dashedName": "ask-technical-support",
       "modules": [
         {
           "dashedName": "offer-technical-support",
