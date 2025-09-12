@@ -847,7 +847,7 @@ const allStandardCerts = [
       {
         id: '681a8796e5a782fe3459984b',
         title: 'Dialogue 1: PLACEHOLDER',
-        link: `${a2SpanishBase}/talk-about-who-you-are-by-using-key-verbs
+        link: `${a2SpanishBase}/es-a2-this-is-me-basics
 /text-1`,
         certSlug: Certification.A2Spanish
       }
