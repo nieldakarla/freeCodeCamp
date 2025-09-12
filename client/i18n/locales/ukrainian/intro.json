@@ -852,23 +852,33 @@
       },
       "build-an-arithmetic-formatter-project": {
         "title": "Проєкт «Створіть арифметичний форматор»",
-        "intro": ["Цей проєкт потрібно виконати, щоб отримати сертифікацію."]
+        "intro": [
+          "Цей проєкт потрібно виконати, щоб отримати сертифікацію."
+        ]
       },
       "build-a-time-calculator-project": {
         "title": "Проєкт «Створіть калькулятор часу»",
-        "intro": ["Цей проєкт потрібно виконати, щоб отримати сертифікацію."]
+        "intro": [
+          "Цей проєкт потрібно виконати, щоб отримати сертифікацію."
+        ]
       },
       "build-a-budget-app-project": {
         "title": "Проєкт «Створіть застосунок для ведення бюджету»",
-        "intro": ["Цей проєкт потрібно виконати, щоб отримати сертифікацію."]
+        "intro": [
+          "Цей проєкт потрібно виконати, щоб отримати сертифікацію."
+        ]
       },
       "build-a-polygon-area-calculator-project": {
         "title": "Проєкт «Створіть калькулятор площі багатокутника»",
-        "intro": ["Цей проєкт потрібно виконати, щоб отримати сертифікацію."]
+        "intro": [
+          "Цей проєкт потрібно виконати, щоб отримати сертифікацію."
+        ]
       },
       "build-a-probability-calculator-project": {
         "title": "Проєкт «Створіть калькулятор вірогідностей»",
-        "intro": ["Цей проєкт потрібно виконати, щоб отримати сертифікацію."]
+        "intro": [
+          "Цей проєкт потрібно виконати, щоб отримати сертифікацію."
+        ]
       },
       "learn-interfaces-by-building-an-equation-solver": {
         "title": "Вивчіть інтерфейси, створивши розв’язувач рівнянь",
@@ -1023,7 +1033,9 @@
       },
       "learn-functions-and-graphing": {
         "title": "Вивчіть функції та графіки",
-        "intro": ["Ця тема навчить вас математичних функцій."]
+        "intro": [
+          "Ця тема навчить вас математичних функцій."
+        ]
       },
       "learn-linear-functions": {
         "title": "Вивчіть лінійні функції",
@@ -1263,7 +1275,9 @@
       },
       "top-learn-function-basics": {
         "title": "Вивчіть основи функцій",
-        "intro": ["Дізнайтесь про функції в JavaScript."]
+        "intro": [
+          "Дізнайтесь про функції в JavaScript."
+        ]
       },
       "top-basic-function-projects": {
         "title": "Проєкти «Базові функції»",
@@ -1273,7 +1287,9 @@
       },
       "top-learn-arrays-and-loops": {
         "title": "Вивчіть масиви та цикли",
-        "intro": ["Дізнайтесь про масиви та цикли в JavaScript."]
+        "intro": [
+          "Дізнайтесь про масиви та цикли в JavaScript."
+        ]
       },
       "top-learn-to-solve-problems-and-understand-errors": {
         "title": "Навчіться розв’язувати проблеми та розуміти помилки",
@@ -1576,15 +1592,21 @@
     "blocks": {
       "learn-how-to-describe-places-and-events": {
         "title": "Дізнайтесь, як описувати місця і події",
-        "intro": ["У цьому курсі ви навчитеся говорити про місця та події."]
+        "intro": [
+          "У цьому курсі ви навчитеся говорити про місця та події."
+        ]
       },
       "learn-how-to-talk-about-past-experiences": {
         "title": "Дізнайтесь, як говорити про досвід",
-        "intro": ["У цьому курсі ви навчитеся ділитись власним досвідом."]
+        "intro": [
+          "У цьому курсі ви навчитеся ділитись власним досвідом."
+        ]
       },
       "learn-how-to-talk-about-past-activities": {
         "title": "Дізнайтесь, як говорити про дії з минулого",
-        "intro": ["У цьому курсі ви навчитеся говорити про речі, які зробили."]
+        "intro": [
+          "У цьому курсі ви навчитеся говорити про речі, які зробили."
+        ]
       },
       "learn-present-perfect-while-talking-about-accessibility": {
         "title": "Дізнайтесь про теперішній доконаний час, говорячи про доступність",
@@ -2370,7 +2392,9 @@
       },
       "quiz-computer-basics": {
         "title": "Тест «Основи комп’ютера»",
-        "intro": ["Перевірте, що ви дізнались про основи комп'ютера."]
+        "intro": [
+          "Перевірте, що ви дізнались про основи комп'ютера."
+        ]
       },
       "lecture-what-is-css": {
         "title": "Що таке CSS?",
@@ -2407,7 +2431,9 @@
       },
       "quiz-basic-css": {
         "title": "Тест «Основи CSS»",
-        "intro": ["Перевірте, що ви дізнались про основи CSS."]
+        "intro": [
+          "Перевірте, що ви дізнались про основи CSS."
+        ]
       },
       "lecture-styling-lists-and-links": {
         "title": "Стилізація списків і посилань",
@@ -2444,7 +2470,9 @@
       },
       "quiz-css-backgrounds-and-borders": {
         "title": "Тест «Фони та кордони в CSS»",
-        "intro": ["Перевірте, що ви дізнались про фони та кордони в CSS."]
+        "intro": [
+          "Перевірте, що ви дізнались про фони та кордони в CSS."
+        ]
       },
       "lecture-user-interface-design-fundamentals": {
         "title": "Основи UI дизайну",
@@ -2473,7 +2501,9 @@
       },
       "quiz-design-fundamentals": {
         "title": "Тест «Основи дизайну»",
-        "intro": ["Перевірте, що ви дізнались про основи дизайну UI."]
+        "intro": [
+          "Перевірте, що ви дізнались про основи дизайну UI."
+        ]
       },
       "lecture-working-with-relative-and-absolute-units": {
         "title": "Робота з відносними й абсолютними одиницями",
@@ -2656,7 +2686,9 @@
       },
       "quiz-css-flexbox": {
         "title": "Тест «CSS Flexbox»",
-        "intro": ["Перевірте, що ви дізнались про CSS flexbox."]
+        "intro": [
+          "Перевірте, що ви дізнались про CSS flexbox."
+        ]
       },
       "lecture-working-with-css-fonts": {
         "title": "Робота з шрифтами в CSS",
@@ -2817,7 +2849,9 @@
       },
       "quiz-responsive-web-design": {
         "title": "Тест «Адаптивний вебдизайн»",
-        "intro": ["Перевірте, що ви дізнались про адаптивність вебсторінок."]
+        "intro": [
+          "Перевірте, що ви дізнались про адаптивність вебсторінок."
+        ]
       },
       "lecture-working-with-css-variables": {
         "title": "Робота зі змінними в CSS",
@@ -2925,7 +2959,9 @@
       },
       "lab-personal-portfolio": {
         "title": "Створіть особисте портфоліо",
-        "intro": ["У цьому проєкті ви створите особисте портфоліо."]
+        "intro": [
+          "У цьому проєкті ви створите особисте портфоліо."
+        ]
       },
       "review-css-animations": {
         "title": "Повторення анімацій в CSS",
@@ -3168,7 +3204,9 @@
       },
       "lab-counting-cards": {
         "title": "Build a Card Counting Assistant",
-        "intro": ["In this lab you will use JavaScript to count dealt cards."]
+        "intro": [
+          "In this lab you will use JavaScript to count dealt cards."
+        ]
       },
       "lab-leap-year-calculator": {
         "title": "Створіть калькулятор високосних років ",
@@ -3383,7 +3421,9 @@
       },
       "lab-slice-and-splice": {
         "title": "Імплементуйте алгоритм розрізання і з’єднання",
-        "intro": ["У цій лабораторній роботі ви навчитесь з’єднувати масиви."]
+        "intro": [
+          "У цій лабораторній роботі ви навчитесь з’єднувати масиви."
+        ]
       },
       "lab-pyramid-generator": {
         "title": "Створіть генератор пірамід",
@@ -3710,7 +3750,9 @@
       },
       "quiz-form-validation-with-javascript": {
         "title": "Тест «Валідація форм з JavaScript»",
-        "intro": ["Перевірте, що ви дізнались про валідацію форм з JavaScript."]
+        "intro": [
+          "Перевірте, що ви дізнались про валідацію форм з JavaScript."
+        ]
       },
       "lecture-working-with-dates": {
         "title": "Робота з датами",
@@ -3733,7 +3775,9 @@
       },
       "quiz-javascript-dates": {
         "title": "Тест «Дати в JavaScript»",
-        "intro": ["Перевірте, що ви дізнались про дати в JavaScript."]
+        "intro": [
+          "Перевірте, що ви дізнались про дати в JavaScript."
+        ]
       },
       "lecture-working-with-audio-and-video": {
         "title": "Робота з аудіо та відео",
@@ -3763,7 +3807,9 @@
       },
       "quiz-javascript-audio-and-video": {
         "title": "Тест «Аудіо та відео в JavaScript»",
-        "intro": ["Перевірте, що ви дізнались про аудіо та відео в JavaScript."]
+        "intro": [
+          "Перевірте, що ви дізнались про аудіо та відео в JavaScript."
+        ]
       },
       "lecture-working-with-maps-and-sets": {
         "title": "Робота з map та set",
@@ -3793,7 +3839,9 @@
       },
       "quiz-javascript-maps-and-sets": {
         "title": "Тест «Map та set в JavaScript»",
-        "intro": ["Перевірте, що ви дізнались про map та set в JavaScript."]
+        "intro": [
+          "Перевірте, що ви дізнались про map та set в JavaScript."
+        ]
       },
       "lecture-working-with-client-side-storage-and-crud-operations": {
         "title": "Робота зі сховищем на клієнтській стороні та операціями CRUD",
@@ -3824,7 +3872,9 @@
       },
       "quiz-local-storage-and-crud": {
         "title": "Тест «Локальне сховище та CRUD»",
-        "intro": ["Перевірте, що ви дізнались про локальне сховище та CRUD."]
+        "intro": [
+          "Перевірте, що ви дізнались про локальне сховище та CRUD."
+        ]
       },
       "lecture-understanding-how-to-work-with-classes-in-javascript": {
         "title": "Знайомство з класами в JavaScript",
@@ -3861,7 +3911,9 @@
       },
       "quiz-javascript-classes": {
         "title": "Тест «Класи в JavaScript»",
-        "intro": ["Перевірте, що ви дізнались про класи в JavaScript."]
+        "intro": [
+          "Перевірте, що ви дізнались про класи в JavaScript."
+        ]
       },
       "lecture-understanding-recursion-and-the-call-stack": {
         "title": "Знайомство з рекурсією та стеком викликів",
@@ -3961,7 +4013,9 @@
       },
       "quiz-asynchronous-javascript": {
         "title": "Тест «Асинхронний JavaScript»",
-        "intro": ["Перевірте, що ви дізнались про асинхронний JavaScript."]
+        "intro": [
+          "Перевірте, що ви дізнались про асинхронний JavaScript."
+        ]
       },
       "review-javascript": {
         "title": "Повторення JavaScript",
@@ -4160,7 +4214,9 @@
       },
       "quiz-web-performance": {
         "title": "Тест «Вебпродуктивність»",
-        "intro": ["Перевірте, що ви дізнались про вебпродуктивність."]
+        "intro": [
+          "Перевірте, що ви дізнались про вебпродуктивність."
+        ]
       },
       "lecture-understanding-the-different-types-of-testing": {
         "title": "Знайомство з різними видами тестування",
@@ -4177,7 +4233,9 @@
       },
       "quiz-testing": {
         "title": "Тест «Тестування»",
-        "intro": ["Перевірте, що ви дізнались про тестування."]
+        "intro": [
+          "Перевірте, що ви дізнались про тестування."
+        ]
       },
       "lecture-working-with-css-libraries-and-frameworks": {
         "title": "Робота з бібліотеками та фреймворками CSS",
@@ -4277,7 +4335,9 @@
       },
       "quiz-typescript": {
         "title": "Тест «TypeScript»",
-        "intro": ["Перевірте, що ви дізнались про Typescript."]
+        "intro": [
+          "Перевірте, що ви дізнались про Typescript."
+        ]
       },
       "review-front-end-libraries": {
         "title": "Повторення бібліотек для Front End",
@@ -4320,7 +4380,9 @@
       },
       "quiz-python-basics": {
         "title": "Тест «Основи Python»",
-        "intro": ["Перевірте, що ви дізнались про основи Python."]
+        "intro": [
+          "Перевірте, що ви дізнались про основи Python."
+        ]
       },
       "lecture-working-with-loops-and-sequences": {
         "title": "Робота з циклами та послідовностями",
@@ -4361,7 +4423,9 @@
       },
       "lecture-working-with-modules": {
         "title": "Робота з модулями",
-        "intro": ["У цих відеолекціях ви дізнаєтесь, як працювати з модулями."]
+        "intro": [
+          "У цих відеолекціях ви дізнаєтесь, як працювати з модулями."
+        ]
       },
       "workshop-medical-data-validator": {
         "title": "Build a Medical Data Validator",
@@ -4384,7 +4448,9 @@
       },
       "quiz-dictionaries-and-sets": {
         "title": "Тест «Словники та набори»",
-        "intro": ["Перевірте, що ви дізнались про словники та набори в Python."]
+        "intro": [
+          "Перевірте, що ви дізнались про словники та набори в Python."
+        ]
       },
       "lecture-understanding-error-handling": {
         "title": "Знайомство з обробкою помилок",
@@ -4407,15 +4473,21 @@
       },
       "quiz-error-handling": {
         "title": "Тест «Обробка помилок»",
-        "intro": ["Перевірте, що ви дізнались про обробку помилок в Python."]
+        "intro": [
+          "Перевірте, що ви дізнались про обробку помилок в Python."
+        ]
       },
       "lecture-classes-and-objects": {
         "title": "Класи та об’єкти",
-        "intro": ["У цих відеолекціях ви дізнаєтесь про класи та об’єкти."]
+        "intro": [
+          "У цих відеолекціях ви дізнаєтесь про класи та об’єкти."
+        ]
       },
       "workshop-placeholder-classes-and-objects": {
         "title": "Placeholder - waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-budget-app": {
         "title": "Створіть застосунок для ведення бюджету",
@@ -4432,7 +4504,9 @@
       },
       "quiz-classes-and-objects": {
         "title": "Тест «Класи та об’єкти»",
-        "intro": ["Перевірте, що ви дізнались про класи та об’єкти в Python."]
+        "intro": [
+          "Перевірте, що ви дізнались про класи та об’єкти в Python."
+        ]
       },
       "lecture-understanding-object-oriented-programming-and-encapsulation": {
         "title": "Знайомство з об’єктноорієнтованим програмуванням та інкапсуляцією",
@@ -4442,11 +4516,15 @@
       },
       "workshop-placeholder-oop-1": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-placeholder-oop-1": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lecture-understanding-inheritance-and-polymorphism": {
         "title": "Знайомство з успадкуванням та поліморфізмом",
@@ -4456,7 +4534,9 @@
       },
       "workshop-placeholder-oop-2": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-polygon-area-calculator": {
         "title": "Створіть калькулятор площі багатокутника",
@@ -4466,15 +4546,21 @@
       },
       "lecture-understanding-abstraction": {
         "title": "Знайомство з абстракцією",
-        "intro": ["У цих відеолекціях ви дізнаєтесь про абстракцію."]
+        "intro": [
+          "У цих відеолекціях ви дізнаєтесь про абстракцію."
+        ]
       },
       "workshop-placeholder-oop-3": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-placeholder-oop-3": {
         "title": "",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "review-object-oriented-programming": {
         "title": "Повторення об’єктноорієнтованого програмування",
@@ -4497,7 +4583,9 @@
       },
       "workshop-linked-list-class": {
         "title": "Створіть клас «Linked List»",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-hash-table": {
         "title": "Створіть хеш-таблицю",
@@ -4515,7 +4603,9 @@
       },
       "quiz-data-structures": {
         "title": "Тест «Структури даних»",
-        "intro": ["Перевірте, що ви дізнались про структури даних в Python."]
+        "intro": [
+          "Перевірте, що ви дізнались про структури даних в Python."
+        ]
       },
       "lecture-searching-and-sorting-algorithms": {
         "title": "Алгоритми пошуку та сортування",
@@ -4583,11 +4673,15 @@
       },
       "lecture-understanding-graphs-and-trees": {
         "title": "Знайомство з графами та деревами",
-        "intro": ["У цих відеолекціях ви дізнаєтесь про графи та дерева."]
+        "intro": [
+          "У цих відеолекціях ви дізнаєтесь про графи та дерева."
+        ]
       },
       "workshop-shortest-path-algorithm": {
         "title": "Створіть алгоритм найкоротшого шляху",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-adjacency-list-to-matrix-converter": {
         "title": "Build an Adjacency List to Matrix Converter",
@@ -4597,11 +4691,15 @@
       },
       "workshop-breadth-first-search": {
         "title": "Створіть алгоритм пошуку в ширину",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-depth-first-search": {
         "title": "Створіть алгоритм пошуку в глибину",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "review-graphs-and-trees": {
         "title": "Повторення графів та дерев",
@@ -4612,7 +4710,9 @@
       },
       "quiz-graphs-and-trees": {
         "title": "Тест «Графи та дерева»",
-        "intro": ["Перевірте, що ви дізнались про графи та дерева в Python."]
+        "intro": [
+          "Перевірте, що ви дізнались про графи та дерева в Python."
+        ]
       },
       "lecture-understanding-dynamic-programming": {
         "title": "Знайомство з динамічним програмуванням",
@@ -4622,7 +4722,9 @@
       },
       "lab-nth-fibonacci-number": {
         "title": "Створіть калькулятор n-го числа Фібоначчі",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "review-dynamic-programming": {
         "title": "Повторення динамічного програмування",
@@ -4664,7 +4766,9 @@
       },
       "quiz-bash-commands": {
         "title": "Тест «Команди Bash»",
-        "intro": ["Перевірте, що ви дізнались про команди bash."]
+        "intro": [
+          "Перевірте, що ви дізнались про команди bash."
+        ]
       },
       "lecture-working-with-relational-databases": {
         "title": "Working with Relational Databases",
@@ -4693,11 +4797,15 @@
       },
       "quiz-relational-database": {
         "title": "Тест «Реляційні бази даних»",
-        "intro": ["Перевірте, що ви дізнались про реляційні бази даних."]
+        "intro": [
+          "Перевірте, що ви дізнались про реляційні бази даних."
+        ]
       },
       "lecture-understanding-bash-scripting": {
         "title": "Understanding Bash Scripting",
-        "intro": ["Learn about Bash Scripting in these lectures."]
+        "intro": [
+          "Learn about Bash Scripting in these lectures."
+        ]
       },
       "workshop-bash-five-programs": {
         "title": "Створіть п’ять програм",
@@ -4714,7 +4822,9 @@
       },
       "quiz-bash-scripting": {
         "title": "Тест «Скрипти Bash»",
-        "intro": ["Перевірте, що ви дізнались про скрипти bash."]
+        "intro": [
+          "Перевірте, що ви дізнались про скрипти bash."
+        ]
       },
       "lecture-working-with-sql": {
         "title": "Working With SQL",
@@ -4769,11 +4879,15 @@
       },
       "quiz-bash-and-sql": {
         "title": "Тест «Bash та SQL»",
-        "intro": ["Перевірте, що ви дізнались про Bash та SQL."]
+        "intro": [
+          "Перевірте, що ви дізнались про Bash та SQL."
+        ]
       },
       "lecture-working-with-nano": {
         "title": "Working With Nano",
-        "intro": ["Learn about Nano in this lecture."]
+        "intro": [
+          "Learn about Nano in this lecture."
+        ]
       },
       "workshop-castle": {
         "title": "Створіть замок",
@@ -4813,7 +4927,9 @@
       },
       "quiz-git": {
         "title": "Тест «Git»",
-        "intro": ["Перевірте, що ви дізнались про Git."]
+        "intro": [
+          "Перевірте, що ви дізнались про Git."
+        ]
       },
       "review-relational-databases": {
         "title": "Повторення реляційних баз даних",
@@ -4832,26 +4948,32 @@
   "a1-professional-spanish": {
     "title": "A1 Professional Spanish Certification (Beta)",
     "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
       "a1-professional-spanish-placeholder-block": {
         "title": "A1 Professional Spanish Placeholder Block",
-        "intro": ["Placeholder intro text."]
+        "intro": [
+          "Placeholder intro text."
+        ]
       }
     }
   },
   "a2-professional-spanish": {
     "title": "Сертифікація «Іспанська мова A2 для роботи» (бета)",
     "note": "Сертифікація знаходиться в стані активної розробки. Наразі для цього розділу немає сертифіката, але він буде доступний найближчим часом. Тим часом ви можете дослідити курси, які ми вже створили.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
-      "talk-about-who-you-are-by-using-key-verbs": {
+      "es-a2-this-is-me-basics": {
         "title": "Говоріть про себе за допомогою ключових дієслів",
         "intro": [
           "Дізнайтесь, як просто і професійно представити себе іспанською мовою. У цьому модулі ви навчитесь розповідати про себе, звідки ви, чим займаєтесь, як почуваєтесь і що вам подобається чи не подобається."
         ]
       },
-      "get-to-know-others-by-asking-simple-questions": {
+      "es-a2-warm-up-how-are-you-today-basics": {
         "title": "Дізнавайтесь інших, ставлячи прості запитання",
         "intro": [
           "Дізнайтесь, як ставити запитання і відповідати на них. У цих п’яти коротких діалогах ви будете говорити про рутину, почуття, уподобання, роботу і особисту інформацію. Ви також навчитесь ставити ввічливі запитання, давати коротку відповідь та використовувати заперечення."
@@ -4862,7 +4984,9 @@
   "a2-professional-chinese": {
     "title": "Сертифікація «Китайська мова A2 для роботи» (бета)",
     "note": "Сертифікація знаходиться в стані активної розробки. Наразі для цього розділу немає сертифіката, але він буде доступний найближчим часом. Тим часом ви можете дослідити курси, які ми вже створили.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
       "talk-about-what-you-do-by-using-key-verbs": {
         "title": "Говоріть про себе за допомогою ключових дієслів",
@@ -4881,7 +5005,9 @@
   "a1-professional-chinese": {
     "title": "A1 Professional Chinese Certification (Beta)",
     "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
       "learn-essential-courtesies-at-the-office": {
         "title": "Learn Essential Courtesies at the Office",
@@ -4896,7 +5022,9 @@
     "summary": [
       "Навчіться створювати прості вебсторінки з текстом, зображеннями і посиланнями, доданими за допомогою HTML-тегів."
     ],
-    "intro": ["Larger intro for the superblock page."],
+    "intro": [
+      "Larger intro for the superblock page."
+    ],
     "blocks": {
       "cat-photo-app": {
         "title": "Створіть застосунок із фото котів",
@@ -4918,7 +5046,9 @@
     "summary": [
       "Дізнайтесь, як писати чистіший і змістовніший HTML завдяки семантичним тегам, які покращують структуру, доступність та SEO."
     ],
-    "intro": ["Larger intro for the superblock page."],
+    "intro": [
+      "Larger intro for the superblock page."
+    ],
     "blocks": {
       "cat-blog-page": {
         "title": "Створіть сторінку блогу про котів",
@@ -4936,21 +5066,29 @@
   },
   "dev-playground": {
     "title": "Ігровий майданчик",
-    "intro": ["Ігровий майданчик для створення і тестування завдань"],
+    "intro": [
+      "Ігровий майданчик для створення і тестування завдань"
+    ],
     "blocks": {
       "daily-coding-challenges-javascript": {
         "title": "Щоденні завдання з JavaScript",
-        "intro": ["Місце для створення щоденних завдань з JavaScript."]
+        "intro": [
+          "Місце для створення щоденних завдань з JavaScript."
+        ]
       },
       "daily-coding-challenges-python": {
         "title": "Щоденні завдання з Python",
-        "intro": ["Місце для створення щоденних завдань з Python."]
+        "intro": [
+          "Місце для створення щоденних завдань з Python."
+        ]
       }
     }
   },
   "full-stack-open": {
     "title": "Full Stack Open",
-    "intro": ["A good intro is to be added here."],
+    "intro": [
+      "A good intro is to be added here."
+    ],
     "blocks": {
       "cat-blog-page": {
         "title": "Build a Cat Blog Page",

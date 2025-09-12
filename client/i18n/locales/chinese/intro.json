@@ -852,15 +852,21 @@
       },
       "build-an-arithmetic-formatter-project": {
         "title": "创建算术格式化器项目",
-        "intro": ["这是你要获得认证必须做的项目之一。"]
+        "intro": [
+          "这是你要获得认证必须做的项目之一。"
+        ]
       },
       "build-a-time-calculator-project": {
         "title": "创建时间计算器项目",
-        "intro": ["这是你要获得认证必须做的项目之一。"]
+        "intro": [
+          "这是你要获得认证必须做的项目之一。"
+        ]
       },
       "build-a-budget-app-project": {
         "title": "创建预算应用程序项目",
-        "intro": ["这是你要获得认证必须做的项目之一。"]
+        "intro": [
+          "这是你要获得认证必须做的项目之一。"
+        ]
       },
       "build-a-polygon-area-calculator-project": {
         "title": "Build a Polygon Area Calculator Project",
@@ -1021,15 +1027,21 @@
       },
       "learn-fractions-and-decimals": {
         "title": "学习分数和小数",
-        "intro": ["这个学习单元将侧重于将小数转换为分数和百分比。"]
+        "intro": [
+          "这个学习单元将侧重于将小数转换为分数和百分比。"
+        ]
       },
       "learn-functions-and-graphing": {
         "title": "学习函数和图像",
-        "intro": ["这个单元将会教你数学函数。"]
+        "intro": [
+          "这个单元将会教你数学函数。"
+        ]
       },
       "learn-linear-functions": {
         "title": "学习线性函数",
-        "intro": ["这个单元将向你展示如何从两个点来构建线性方程。"]
+        "intro": [
+          "这个单元将向你展示如何从两个点来构建线性方程。"
+        ]
       },
       "learn-common-factors-and-square-roots": {
         "title": "学习公因数和平方根",
@@ -1257,19 +1269,27 @@
       },
       "top-learn-data-types-and-conditionals": {
         "title": "学习数据类型和条件",
-        "intro": ["在 JavaScript 中学习数据类型和条件"]
+        "intro": [
+          "在 JavaScript 中学习数据类型和条件"
+        ]
       },
       "top-learn-function-basics": {
         "title": "学习函数基础",
-        "intro": ["学习 JavaScript 中的函数。"]
+        "intro": [
+          "学习 JavaScript 中的函数。"
+        ]
       },
       "top-basic-function-projects": {
         "title": "基础函数项目",
-        "intro": ["通过构建基本函数来测试你的 JavaScript 技能。"]
+        "intro": [
+          "通过构建基本函数来测试你的 JavaScript 技能。"
+        ]
       },
       "top-learn-arrays-and-loops": {
         "title": "Learn Arrays and Loops",
-        "intro": ["Learn about arrays and loops in JavaScript."]
+        "intro": [
+          "Learn about arrays and loops in JavaScript."
+        ]
       },
       "top-learn-to-solve-problems-and-understand-errors": {
         "title": "Learn to Solve Problems and Understand Errors",
@@ -1376,7 +1396,9 @@
       },
       "foundational-c-sharp-with-microsoft-certification-exam": {
         "title": "微软基础 C# 认证考试",
-        "intro": ["利用所学知识通过考试，获得你的微软基础 C# 认证"]
+        "intro": [
+          "利用所学知识通过考试，获得你的微软基础 C# 认证"
+        ]
       }
     }
   },
@@ -2538,7 +2560,9 @@
       },
       "quiz-css-pseudo-classes": {
         "title": "CSS Pseudo-classes Quiz",
-        "intro": ["Test your knowledge of CSS pseudo-classes with this quiz."]
+        "intro": [
+          "Test your knowledge of CSS pseudo-classes with this quiz."
+        ]
       },
       "lecture-working-with-colors-in-css": {
         "title": "Working with Colors in CSS",
@@ -2567,7 +2591,9 @@
       },
       "quiz-css-colors": {
         "title": "CSS Colors Quiz",
-        "intro": ["Test your knowledge of CSS colors with this quiz."]
+        "intro": [
+          "Test your knowledge of CSS colors with this quiz."
+        ]
       },
       "lecture-best-practices-for-styling-forms": {
         "title": "Best Practices for Styling Forms",
@@ -2660,7 +2686,9 @@
       },
       "quiz-css-flexbox": {
         "title": "CSS Flexbox Quiz",
-        "intro": ["Test what you've learned on CSS flexbox with this quiz."]
+        "intro": [
+          "Test what you've learned on CSS flexbox with this quiz."
+        ]
       },
       "lecture-working-with-css-fonts": {
         "title": "Working with CSS Fonts",
@@ -2691,7 +2719,9 @@
       },
       "quiz-css-typography": {
         "title": "CSS Typography Quiz",
-        "intro": ["Test your knowledge of typography with this quiz."]
+        "intro": [
+          "Test your knowledge of typography with this quiz."
+        ]
       },
       "lecture-best-practices-for-accessibility-and-css": {
         "title": "Best Practices for Accessibility and CSS",
@@ -2754,7 +2784,9 @@
       },
       "quiz-css-positioning": {
         "title": "CSS Positioning Quiz",
-        "intro": ["Test your knowledge of CSS positioning with this quiz."]
+        "intro": [
+          "Test your knowledge of CSS positioning with this quiz."
+        ]
       },
       "lecture-working-with-attribute-selectors": {
         "title": "Working with Attribute Selectors",
@@ -2850,7 +2882,9 @@
       },
       "quiz-css-variables": {
         "title": "CSS Variables Quiz",
-        "intro": ["Test your knowledge of CSS variables with this quiz."]
+        "intro": [
+          "Test your knowledge of CSS variables with this quiz."
+        ]
       },
       "lecture-working-with-css-grid": {
         "title": "Working with CSS Grid",
@@ -2892,7 +2926,9 @@
       },
       "quiz-css-grid": {
         "title": "CSS Grid Quiz",
-        "intro": ["Test your knowledge of CSS Grid with this quiz."]
+        "intro": [
+          "Test your knowledge of CSS Grid with this quiz."
+        ]
       },
       "lecture-animations-and-accessibility": {
         "title": "Animations and Accessibility",
@@ -2936,7 +2972,9 @@
       },
       "quiz-css-animations": {
         "title": "CSS Animations Quiz",
-        "intro": ["Test your knowledge of CSS animations with this quiz."]
+        "intro": [
+          "Test your knowledge of CSS animations with this quiz."
+        ]
       },
       "review-css": {
         "title": "CSS Review",
@@ -3041,7 +3079,9 @@
       },
       "quiz-javascript-strings": {
         "title": "JavaScript Strings Quiz",
-        "intro": ["Test your knowledge of JavaScript strings with this quiz."]
+        "intro": [
+          "Test your knowledge of JavaScript strings with this quiz."
+        ]
       },
       "lecture-working-with-numbers-and-arithmetic-operators": {
         "title": "Working with Numbers and Arithmetic Operators",
@@ -3164,7 +3204,9 @@
       },
       "lab-counting-cards": {
         "title": "Build a Card Counting Assistant",
-        "intro": ["In this lab you will use JavaScript to count dealt cards."]
+        "intro": [
+          "In this lab you will use JavaScript to count dealt cards."
+        ]
       },
       "lab-leap-year-calculator": {
         "title": "Build a Leap Year Calculator ",
@@ -3193,7 +3235,9 @@
       },
       "quiz-javascript-functions": {
         "title": "JavaScript Functions Quiz",
-        "intro": ["Test your knowledge of JavaScript functions with this quiz."]
+        "intro": [
+          "Test your knowledge of JavaScript functions with this quiz."
+        ]
       },
       "lecture-working-with-arrays": {
         "title": "Working with Arrays",
@@ -3241,7 +3285,9 @@
       },
       "quiz-javascript-arrays": {
         "title": "JavaScript Arrays Quiz",
-        "intro": ["Test your knowledge of JavaScript arrays with this quiz."]
+        "intro": [
+          "Test your knowledge of JavaScript arrays with this quiz."
+        ]
       },
       "lecture-working-with-objects": {
         "title": "Working with Objects",
@@ -3277,7 +3323,9 @@
       },
       "quiz-javascript-objects": {
         "title": "JavaScript Objects Quiz",
-        "intro": ["Test your knowledge of JavaScript objects with this quiz."]
+        "intro": [
+          "Test your knowledge of JavaScript objects with this quiz."
+        ]
       },
       "lecture-working-with-loops": {
         "title": "Working with Loops",
@@ -3337,7 +3385,9 @@
       },
       "quiz-javascript-loops": {
         "title": "JavaScript Loops Quiz",
-        "intro": ["Test your knowledge of JavaScript loops with this quiz."]
+        "intro": [
+          "Test your knowledge of JavaScript loops with this quiz."
+        ]
       },
       "lecture-working-with-types-and-objects": {
         "title": "Working with Types and Objects",
@@ -3622,7 +3672,9 @@
       },
       "quiz-debugging-javascript": {
         "title": "Debugging JavaScript Quiz",
-        "intro": ["Test your knowledge of JavaScript debugging with this quiz."]
+        "intro": [
+          "Test your knowledge of JavaScript debugging with this quiz."
+        ]
       },
       "lecture-working-with-regular-expressions": {
         "title": "Working with Regular Expressions",
@@ -3652,7 +3704,9 @@
       },
       "lab-regex-sandbox": {
         "title": "Build a RegEx Sandbox",
-        "intro": ["In this lab you'll build a regex sandbox."]
+        "intro": [
+          "In this lab you'll build a regex sandbox."
+        ]
       },
       "review-javascript-regular-expressions": {
         "title": "JavaScript Regular Expressions Review",
@@ -3889,7 +3943,9 @@
       },
       "quiz-recursion": {
         "title": "Recursion Quiz",
-        "intro": ["Test your knowledge of Recursion with this quiz."]
+        "intro": [
+          "Test your knowledge of Recursion with this quiz."
+        ]
       },
       "lecture-understanding-functional-programming": {
         "title": "Understanding Functional Programming",
@@ -3987,7 +4043,9 @@
       },
       "lab-reusable-footer": {
         "title": "Build a Reusable Footer",
-        "intro": ["In this lab, you'll use React to build a reusable footer."]
+        "intro": [
+          "In this lab, you'll use React to build a reusable footer."
+        ]
       },
       "lecture-working-with-data-in-react": {
         "title": "Working with Data in React",
@@ -4016,7 +4074,9 @@
       },
       "quiz-react-basics": {
         "title": "React Basics Quiz",
-        "intro": ["Test your knowledge of React basics with this quiz."]
+        "intro": [
+          "Test your knowledge of React basics with this quiz."
+        ]
       },
       "lecture-working-with-state-and-responding-to-events-in-react": {
         "title": "Working with State and Responding to Events in React",
@@ -4173,7 +4233,9 @@
       },
       "quiz-testing": {
         "title": "Testing Quiz",
-        "intro": ["Test what you've learned on testing with this quiz."]
+        "intro": [
+          "Test what you've learned on testing with this quiz."
+        ]
       },
       "lecture-working-with-css-libraries-and-frameworks": {
         "title": "Working with CSS Libraries and Frameworks",
@@ -4273,7 +4335,9 @@
       },
       "quiz-typescript": {
         "title": "TypeScript Quiz",
-        "intro": ["Test what you've learned on Typescript with this quiz."]
+        "intro": [
+          "Test what you've learned on Typescript with this quiz."
+        ]
       },
       "review-front-end-libraries": {
         "title": "Front End Libraries Review",
@@ -4334,7 +4398,9 @@
       },
       "lab-number-pattern-generator": {
         "title": "Build a Number Pattern Generator",
-        "intro": ["In this lab you will build a number pattern generator."]
+        "intro": [
+          "In this lab you will build a number pattern generator."
+        ]
       },
       "review-loops-and-sequences": {
         "title": "Loops and Sequences Review",
@@ -4357,7 +4423,9 @@
       },
       "lecture-working-with-modules": {
         "title": "Working with Modules",
-        "intro": ["Learn about working with modules in these lectures."]
+        "intro": [
+          "Learn about working with modules in these lectures."
+        ]
       },
       "workshop-medical-data-validator": {
         "title": "Build a Medical Data Validator",
@@ -4411,11 +4479,15 @@
       },
       "lecture-classes-and-objects": {
         "title": "Classes and Objects",
-        "intro": ["Learn about Classes and Objects in these lectures."]
+        "intro": [
+          "Learn about Classes and Objects in these lectures."
+        ]
       },
       "workshop-placeholder-classes-and-objects": {
         "title": "Placeholder - waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-budget-app": {
         "title": "Build a Budget App",
@@ -4444,11 +4516,15 @@
       },
       "workshop-placeholder-oop-1": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-placeholder-oop-1": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lecture-understanding-inheritance-and-polymorphism": {
         "title": "Understanding Inheritance and Polymorphism",
@@ -4458,7 +4534,9 @@
       },
       "workshop-placeholder-oop-2": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-polygon-area-calculator": {
         "title": "Build a Polygon Area Calculator",
@@ -4468,15 +4546,21 @@
       },
       "lecture-understanding-abstraction": {
         "title": "Understanding Abstraction",
-        "intro": ["Learn about Understanding Abstraction in these lectures."]
+        "intro": [
+          "Learn about Understanding Abstraction in these lectures."
+        ]
       },
       "workshop-placeholder-oop-3": {
         "title": "Placeholder - Waiting for title",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-placeholder-oop-3": {
         "title": "",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "review-object-oriented-programming": {
         "title": "Object Oriented Programming Review",
@@ -4499,7 +4583,9 @@
       },
       "workshop-linked-list-class": {
         "title": "Build a Linked List Class",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-hash-table": {
         "title": "Build a Hash Table",
@@ -4593,7 +4679,9 @@
       },
       "workshop-shortest-path-algorithm": {
         "title": "Build a Shortest Path Algorithm",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-adjacency-list-to-matrix-converter": {
         "title": "Build an Adjacency List to Matrix Converter",
@@ -4603,11 +4691,15 @@
       },
       "workshop-breadth-first-search": {
         "title": "Build a Breadth First Search",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "lab-depth-first-search": {
         "title": "Build a Depth First Search",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "review-graphs-and-trees": {
         "title": "Graphs and Trees Review",
@@ -4630,7 +4722,9 @@
       },
       "lab-nth-fibonacci-number": {
         "title": "Build an Nth Fibonacci Number Calculator",
-        "intro": [""]
+        "intro": [
+          ""
+        ]
       },
       "review-dynamic-programming": {
         "title": "Dynamic Programming Review",
@@ -4647,7 +4741,9 @@
       },
       "review-python": {
         "title": "Python Review",
-        "intro": ["Review Python concepts to prepare for the upcoming exam."]
+        "intro": [
+          "Review Python concepts to prepare for the upcoming exam."
+        ]
       },
       "lecture-understanding-the-command-line-and-working-with-bash": {
         "title": "Understanding the Command Line and Working with Bash",
@@ -4670,7 +4766,9 @@
       },
       "quiz-bash-commands": {
         "title": "Bash Commands Quiz",
-        "intro": ["Test what you've learned bash commands with this quiz."]
+        "intro": [
+          "Test what you've learned bash commands with this quiz."
+        ]
       },
       "lecture-working-with-relational-databases": {
         "title": "Working with Relational Databases",
@@ -4705,7 +4803,9 @@
       },
       "lecture-understanding-bash-scripting": {
         "title": "Understanding Bash Scripting",
-        "intro": ["Learn about Bash Scripting in these lectures."]
+        "intro": [
+          "Learn about Bash Scripting in these lectures."
+        ]
       },
       "workshop-bash-five-programs": {
         "title": "Build Five Programs",
@@ -4722,7 +4822,9 @@
       },
       "quiz-bash-scripting": {
         "title": "Bash Scripting Quiz",
-        "intro": ["Test what you've learned on bash scripting in this quiz."]
+        "intro": [
+          "Test what you've learned on bash scripting in this quiz."
+        ]
       },
       "lecture-working-with-sql": {
         "title": "Working With SQL",
@@ -4777,11 +4879,15 @@
       },
       "quiz-bash-and-sql": {
         "title": "Bash and SQL Quiz",
-        "intro": ["Test what you've learned in this quiz on Bash and SQL."]
+        "intro": [
+          "Test what you've learned in this quiz on Bash and SQL."
+        ]
       },
       "lecture-working-with-nano": {
         "title": "Working With Nano",
-        "intro": ["Learn about Nano in this lecture."]
+        "intro": [
+          "Learn about Nano in this lecture."
+        ]
       },
       "workshop-castle": {
         "title": "Build a Castle",
@@ -4815,11 +4921,15 @@
       },
       "review-git": {
         "title": "Git Review",
-        "intro": ["Review Git concepts to prepare for the upcoming quiz."]
+        "intro": [
+          "Review Git concepts to prepare for the upcoming quiz."
+        ]
       },
       "quiz-git": {
         "title": "Git Quiz",
-        "intro": ["Test what you've learned on Git with this quiz."]
+        "intro": [
+          "Test what you've learned on Git with this quiz."
+        ]
       },
       "review-relational-databases": {
         "title": "Relational Databases Review",
@@ -4829,33 +4939,41 @@
       },
       "exam-certified-full-stack-developer": {
         "title": "Certified Full Stack Developer Exam",
-        "intro": ["Pass this exam to become a Certified Full Stack Developer."]
+        "intro": [
+          "Pass this exam to become a Certified Full Stack Developer."
+        ]
       }
     }
   },
   "a1-professional-spanish": {
     "title": "A1 Professional Spanish Certification (Beta)",
     "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
       "a1-professional-spanish-placeholder-block": {
         "title": "A1 Professional Spanish Placeholder Block",
-        "intro": ["Placeholder intro text."]
+        "intro": [
+          "Placeholder intro text."
+        ]
       }
     }
   },
   "a2-professional-spanish": {
     "title": "A2 Professional Spanish Certification (Beta)",
     "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
-      "talk-about-who-you-are-by-using-key-verbs": {
+      "es-a2-this-is-me-basics": {
         "title": "Talk About Who You Are by Using Key Verbs",
         "intro": [
           "Learn how to introduce yourself in Spanish in a simple and professional way. In this module you'll learn how to say who you are, where you are from, what you do, how you feel, and what you like or don't like."
         ]
       },
-      "get-to-know-others-by-asking-simple-questions": {
+      "es-a2-warm-up-how-are-you-today-basics": {
         "title": "Get to Know Others by Asking Simple Questions",
         "intro": [
           "Learn how to ask and answer questions in simple conversations. Through five short dialogues, practice talking about routines, feelings, preferences, workspaces, and personal information. You'll also learn to ask polite questions, give short answers, and use negation naturally."
@@ -4866,7 +4984,9 @@
   "a2-professional-chinese": {
     "title": "A2 Professional Chinese Certification (Beta)",
     "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
       "talk-about-what-you-do-by-using-key-verbs": {
         "title": "Talk About What You Do by Using Key Verbs",
@@ -4885,7 +5005,9 @@
   "a1-professional-chinese": {
     "title": "A1 Professional Chinese Certification (Beta)",
     "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
-    "intro": ["Placeholder intro"],
+    "intro": [
+      "Placeholder intro"
+    ],
     "blocks": {
       "learn-essential-courtesies-at-the-office": {
         "title": "Learn Essential Courtesies at the Office",
@@ -4900,7 +5022,9 @@
     "summary": [
       "Learn how to build simple webpages using HTML tags to add text, images, and links."
     ],
-    "intro": ["Larger intro for the superblock page."],
+    "intro": [
+      "Larger intro for the superblock page."
+    ],
     "blocks": {
       "cat-photo-app": {
         "title": "Build a Cat Photo App",
@@ -4922,7 +5046,9 @@
     "summary": [
       "Discover how to write cleaner, more meaningful HTML using semantic tags that improve structure, accessibility, and SEO."
     ],
-    "intro": ["Larger intro for the superblock page."],
+    "intro": [
+      "Larger intro for the superblock page."
+    ],
     "blocks": {
       "cat-blog-page": {
         "title": "Build a Cat Blog Page",
@@ -4940,21 +5066,29 @@
   },
   "dev-playground": {
     "title": "Dev Playground",
-    "intro": ["Playground for creating and testing challenges"],
+    "intro": [
+      "Playground for creating and testing challenges"
+    ],
     "blocks": {
       "daily-coding-challenges-javascript": {
         "title": "Daily Coding Challenges JavaScript",
-        "intro": ["Place to create JavaScript daily coding challenges."]
+        "intro": [
+          "Place to create JavaScript daily coding challenges."
+        ]
       },
       "daily-coding-challenges-python": {
         "title": "Daily Coding Challenges Python",
-        "intro": ["Place to create Python daily coding challenges."]
+        "intro": [
+          "Place to create Python daily coding challenges."
+        ]
       }
     }
   },
   "full-stack-open": {
     "title": "Full Stack Open",
-    "intro": ["A good intro is to be added here."],
+    "intro": [
+      "A good intro is to be added here."
+    ],
     "blocks": {
       "cat-blog-page": {
         "title": "Build a Cat Blog Page",

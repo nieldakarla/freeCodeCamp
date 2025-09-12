@@ -1,6 +1,64 @@
 {
-  "blocks": [
-    "talk-about-who-you-are-by-using-key-verbs",
-    "get-to-know-others-by-asking-simple-questions"
+  "chapters": [
+    {
+      "dashedName": "learn-introductions",
+      "modules": [
+        {
+          "dashedName": "es-a2-module-talk-about-who-you-are",
+          "blocks": [
+            "es-a2-this-is-me-basics",
+            "es-a2-learn-meet-camila",
+            "es-a2-practice-this-is-me-practice",
+            "es-a2-review-this-is-me-review",
+            "es-a2-quiz-this-is-me-quiz",
+            "es-a2-warm-up-more-about-me-basics",
+            "es-a2-learn-meet-carlos",
+            "es-a2-practice-more-about-me-practice",
+            "es-a2-review-more-about-me-review",
+            "es-a2-quiz-more-about-me-quiz",
+            "es-a2-warm-up-not-what-you-think-basics",
+            "es-a2-learn-meet-luna",
+            "es-a2-practice-not-what-you-think-practice",
+            "es-a2-review-not-what-you-think-review",
+            "es-a2-quiz-not-what-you-think-quiz",
+            "es-a2-warm-up-all-about-me-basics",
+            "es-a2-learn-meet-noelia",
+            "es-a2-practice-all-about-me-practice",
+            "es-a2-review-all-about-me-review",
+            "es-a2-quiz-all-about-me-quiz"
+          ]
+        },
+        {
+          "dashedName": "es-a2-module-ask-simple-questions",
+          "blocks": [
+            "es-a2-warm-up-how-are-you-today-basics",
+            "es-a2-learn-how-are-you-today",
+            "es-a2-practice-how-are-you-today-practice",
+            "es-a2-review-how-are-you-today-review",
+            "es-a2-quiz-how-are-you-today-quiz",
+            "es-a2-warm-up-do-you-like-your-job-basics",
+            "es-a2-learn-do-you-like-your-job",
+            "es-a2-practice-do-you-like-your-job-practice",
+            "es-a2-review-do-you-like-your-job-review",
+            "es-a2-quiz-do-you-like-your-job-quiz",
+            "es-a2-warm-up-where-do-you-work-basics",
+            "es-a2-learn-where-do-you-work",
+            "es-a2-practice-where-do-you-work-practice",
+            "es-a2-review-where-do-you-work-review",
+            "es-a2-quiz-where-do-you-work-quiz",
+            "es-a2-warm-up-getting-to-know-you-basics",
+            "es-a2-learn-getting-to-know-you",
+            "es-a2-practice-getting-to-know-you-practice",
+            "es-a2-review-getting-to-know-you-review",
+            "es-a2-quiz-getting-to-know-you-quiz",
+            "es-a2-warm-up-can-you-help-me-basics",
+            "es-a2-learn-can-you-help-me",
+            "es-a2-practice-can-you-help-me-practice",
+            "es-a2-review-can-you-help-me-review",
+            "es-a2-quiz-can-you-help-me-quiz"
+          ]
+        }
+      ]
+    }
   ]
 }
